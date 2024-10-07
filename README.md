@@ -11,7 +11,7 @@ Steps to run test:
 
 Clone the repository:
 
-git clone https://github.com/your-username/login-component.git
+git clone https://github.com/NarendranathV13/vitest_assment.git
 
 Navigate into the project directory:
 
